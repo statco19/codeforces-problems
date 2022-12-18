@@ -24,6 +24,7 @@ int T = 1;
 
 
 void sol() {
+	// https://codeforces.com/blog/entry/64196?f0a28=1
 	ll n;
 	cin >> n;
 
