@@ -25,7 +25,6 @@ int T = 1;
 void sol() {
 	int n,m;
 	cin >> n >> m;
-	// int M[101][101] = {0};
 
 	vt<int> a;
 	for(int i=1; i<=n; ++i) {
